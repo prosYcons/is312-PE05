@@ -13,7 +13,7 @@ const projects = [
     title: "OpenGL C++ Graphics Project",
     description:
       "A 3D graphics project developed in C++ using OpenGL, GLFW, and freeglut. The scene combines imported 3D models, including a city and an airplane, with lighting and shading techniques.",
-    imageUrl: "/images/opengl-placeholder.svg",
+    imageUrl: "/images/opengl-photo.png",
   },
   {
     id: 3,
